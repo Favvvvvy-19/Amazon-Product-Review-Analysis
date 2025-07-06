@@ -22,5 +22,6 @@ The objective of the project was to analyze customer review data to uncover acti
 
 This project provided valuable hands-on experience in transforming raw e-commerce data into meaningful business insights.
 
-### Visuals
+### 📈 Visuals
+![Amazon Product Review Analysis Visualization](https://github.com/user-attachments/assets/7a22d14a-6caa-4a1d-8e3a-89c805545296)
 
