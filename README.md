@@ -20,8 +20,16 @@ The objective of the project was to analyze customer review data to uncover acti
 - Statistical Insights
 -  MS Excel
 
-This project provided valuable hands-on experience in transforming raw e-commerce data into meaningful business insights.
 
 ### 📈 Visuals
 ![Amazon Product Review Analysis Visualization](https://github.com/user-attachments/assets/7a22d14a-6caa-4a1d-8e3a-89c805545296)
 
+### 🗂️ Files
+- To access the Amazon Product Review Analysis File that contains
+  - the uncleaned dataset
+  - the analysis dataset (worksheets: cleaned dataset, pivot tables, dashboard)
+
+[Click Here](https://drive.google.com/drive/folders/1pI7XQBRcIRKvOsF_uUBHMTSZFzBzAqa-)
+
+
+This project provided valuable hands-on experience in transforming raw e-commerce data into meaningful business insights.
